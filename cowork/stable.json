@@ -1,10 +1,10 @@
 {
   "schema": 2,
   "appId": "com.acquill.cowork",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "platform": "windows-x64",
-  "url": "https://github.com/MiloGoodfellow/autobooks-releases/releases/download/cowork-v0.4.7/Acquill-Cowork-Setup-0.4.7.exe",
-  "bytes": 111723352,
-  "sha256": "e02d6d28fea27defd1d852439c9cd9f6bc4ce41d20b9a0f796be4d1c4b16efff",
-  "signature": "vIgNrkK5ODz4YbO+LxWYNQGUHf+INIVh4cRTZimOeIY0WsrIZwXqeKldubI9zpIslrZvQNJrNNYTq6FFX41CCQ=="
+  "url": "https://github.com/MiloGoodfellow/autobooks-releases/releases/download/cowork-v0.4.8/Acquill-Cowork-Setup-0.4.8.exe",
+  "bytes": 111723334,
+  "sha256": "38a5e99806fc6d8d28135ac2da2d61bde65d1f5c69d3c4e8135294219a08fd09",
+  "signature": "bYRCOHDZKulnn0psk0a1oI8Yi4vpqPL2w6IijgKjgQHBX4MuHzdZ5Zvt7eQ/uIRMpG4UrQrFsHugw7GbkPazAA=="
 }
